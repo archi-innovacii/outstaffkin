@@ -16,4 +16,4 @@
 
 -   `NEXT_PUBLIC_API_URL` - полный адрес API для отправки форм
 -   `NEXT_PUBLIC_APP_URL` - URL фронта для метатегов
--   `NEXT_PUBLIC_DEPARTMENT_ID` - ID
+-   `NEXT_PUBLIC_DEPARTMENT_ID` - ID проекта
